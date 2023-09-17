@@ -1,0 +1,112 @@
+---
+object: card
+id: f1e41e4b-22bc-422d-b42d-ad86323a3394
+oracle_id: 705509e9-a034-4a5a-9c65-66f58748b8a2
+multiverse_ids:
+- 389545
+mtgo_id: 54809
+mtgo_foil_id: 54810
+tcgplayer_id: 94364
+cardmarket_id: 270661
+name: Harrow
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/f1e41e4b-22bc-422d-b42d-ad86323a3394
+scryfall_uri: https://scryfall.com/card/c14/199/harrow?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.jpg?1561964276
+  normal: https://cards.scryfall.io/normal/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.jpg?1561964276
+  large: https://cards.scryfall.io/large/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.jpg?1561964276
+  png: https://cards.scryfall.io/png/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.png?1561964276
+  art_crop: https://cards.scryfall.io/art_crop/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.jpg?1561964276
+  border_crop: https://cards.scryfall.io/border_crop/front/f/1/f1e41e4b-22bc-422d-b42d-ad86323a3394.jpg?1561964276
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  As an additional cost to cast this spell, sacrifice a land.
+  Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f1e41e4b-22bc-422d-b42d-ad86323a3394/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A705509e9-a034-4a5a-9c65-66f58748b8a2&unique=prints
+collector_number: '199'
+digital: false
+rarity: common
+flavor_text: No spot in nature is truly barren.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: 6c2705e8-8d55-4c37-bc8c-5a4ff6179325
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 173
+penny_rank: 1976
+prices:
+  usd: '0.49'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.12'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389545
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Harrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Harrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Harrow
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94364?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Harrow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54809?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

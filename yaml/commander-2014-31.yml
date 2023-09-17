@@ -1,0 +1,111 @@
+---
+object: card
+id: 842fb0f2-8a03-4b43-be41-dbc5b6509269
+oracle_id: 69bf79c3-87d1-4244-8d58-989307c91a12
+multiverse_ids:
+- 389738
+mtgo_id: 55201
+mtgo_foil_id: 55202
+tcgplayer_id: 94126
+cardmarket_id: 270470
+name: Wake the Dead
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/842fb0f2-8a03-4b43-be41-dbc5b6509269
+scryfall_uri: https://scryfall.com/card/c14/31/wake-the-dead?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.jpg?1561948856
+  normal: https://cards.scryfall.io/normal/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.jpg?1561948856
+  large: https://cards.scryfall.io/large/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.jpg?1561948856
+  png: https://cards.scryfall.io/png/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.png?1561948856
+  art_crop: https://cards.scryfall.io/art_crop/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.jpg?1561948856
+  border_crop: https://cards.scryfall.io/border_crop/front/8/4/842fb0f2-8a03-4b43-be41-dbc5b6509269.jpg?1561948856
+mana_cost: "{X}{B}{B}"
+cmc: 2.0
+type_line: Instant
+oracle_text: |-
+  Cast this spell only during combat on an opponent's turn.
+  Return X target creature cards from your graveyard to the battlefield. Sacrifice those creatures at the beginning of the next end step.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/842fb0f2-8a03-4b43-be41-dbc5b6509269/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69bf79c3-87d1-4244-8d58-989307c91a12&unique=prints
+collector_number: '31'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: f427652b-5a87-4d86-8032-821213280965
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6466
+prices:
+  usd: '3.79'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: '0.89'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389738
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wake+the+Dead&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wake+the+Dead&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wake+the+Dead
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94126?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wake+the+Dead&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/55201?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

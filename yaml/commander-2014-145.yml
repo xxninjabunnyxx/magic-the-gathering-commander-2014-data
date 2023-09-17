@@ -1,0 +1,129 @@
+---
+object: card
+id: 68ce4c64-9f82-4be1-aa3b-ba885b2d4307
+oracle_id: f3abd4d1-a975-4e85-8684-aa0fce029670
+multiverse_ids:
+- 389540
+mtgo_id: 54863
+mtgo_foil_id: 54864
+tcgplayer_id: 94307
+cardmarket_id: 270603
+name: Grave Titan
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/68ce4c64-9f82-4be1-aa3b-ba885b2d4307
+scryfall_uri: https://scryfall.com/card/c14/145/grave-titan?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.jpg?1561945357
+  normal: https://cards.scryfall.io/normal/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.jpg?1561945357
+  large: https://cards.scryfall.io/large/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.jpg?1561945357
+  png: https://cards.scryfall.io/png/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.png?1561945357
+  art_crop: https://cards.scryfall.io/art_crop/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.jpg?1561945357
+  border_crop: https://cards.scryfall.io/border_crop/front/6/8/68ce4c64-9f82-4be1-aa3b-ba885b2d4307.jpg?1561945357
+mana_cost: "{4}{B}{B}"
+cmc: 6.0
+type_line: Creature — Giant
+oracle_text: |-
+  Deathtouch
+  Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.
+power: '6'
+toughness: '6'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Deathtouch
+all_parts:
+- object: related_card
+  id: '0397aa00-6d82-47d9-bc30-072b722c8b71'
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/0397aa00-6d82-47d9-bc30-072b722c8b71
+- object: related_card
+  id: 68ce4c64-9f82-4be1-aa3b-ba885b2d4307
+  component: combo_piece
+  name: Grave Titan
+  type_line: Creature — Giant
+  uri: https://api.scryfall.com/cards/68ce4c64-9f82-4be1-aa3b-ba885b2d4307
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/68ce4c64-9f82-4be1-aa3b-ba885b2d4307/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af3abd4d1-a975-4e85-8684-aa0fce029670&unique=prints
+collector_number: '145'
+digital: false
+rarity: mythic
+flavor_text: Death in form and function.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: 168b6e33-9dcb-49d1-8710-5933a68edc71
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1124
+penny_rank: 199
+prices:
+  usd: '6.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '5.43'
+  eur_foil: 
+  tix: '0.49'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389540
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Grave+Titan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Grave+Titan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Grave+Titan
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94307?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Grave+Titan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54863?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

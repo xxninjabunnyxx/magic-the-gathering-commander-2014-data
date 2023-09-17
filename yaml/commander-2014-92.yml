@@ -1,0 +1,116 @@
+---
+object: card
+id: f6dea195-3da3-47b4-9a33-5b859881bc01
+oracle_id: 8b34d1df-4024-497d-bd28-a7caa8c3fa24
+multiverse_ids:
+- 389700
+mtgo_id: 54897
+mtgo_foil_id: 54898
+tcgplayer_id: 94249
+cardmarket_id: 270546
+name: Sunblast Angel
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/f6dea195-3da3-47b4-9a33-5b859881bc01
+scryfall_uri: https://scryfall.com/card/c14/92/sunblast-angel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.jpg?1561964558
+  normal: https://cards.scryfall.io/normal/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.jpg?1561964558
+  large: https://cards.scryfall.io/large/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.jpg?1561964558
+  png: https://cards.scryfall.io/png/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.png?1561964558
+  art_crop: https://cards.scryfall.io/art_crop/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.jpg?1561964558
+  border_crop: https://cards.scryfall.io/border_crop/front/f/6/f6dea195-3da3-47b4-9a33-5b859881bc01.jpg?1561964558
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+power: '4'
+toughness: '5'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f6dea195-3da3-47b4-9a33-5b859881bc01/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b34d1df-4024-497d-bd28-a7caa8c3fa24&unique=prints
+collector_number: '92'
+digital: false
+rarity: rare
+flavor_text: There may exist powers even greater than Phyrexia.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: 0bc41af7-5ba3-4337-933d-25e289de36a7
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2768
+penny_rank: 5093
+prices:
+  usd: '0.30'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389700
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sunblast+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sunblast+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sunblast+Angel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94249?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sunblast+Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54897?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

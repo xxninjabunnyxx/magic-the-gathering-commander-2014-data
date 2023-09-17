@@ -1,0 +1,112 @@
+---
+object: card
+id: cc1b41d5-7dfc-446b-9f87-1b60ff995703
+oracle_id: 83d8eda7-b8d2-479a-b1ec-de56833a3182
+multiverse_ids:
+- 389640
+mtgo_id: 54909
+mtgo_foil_id: 54910
+tcgplayer_id: 94375
+cardmarket_id: 270672
+name: Praetor's Counsel
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/cc1b41d5-7dfc-446b-9f87-1b60ff995703
+scryfall_uri: https://scryfall.com/card/c14/209/praetors-counsel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.jpg?1561958787
+  normal: https://cards.scryfall.io/normal/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.jpg?1561958787
+  large: https://cards.scryfall.io/large/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.jpg?1561958787
+  png: https://cards.scryfall.io/png/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.png?1561958787
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.jpg?1561958787
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/cc1b41d5-7dfc-446b-9f87-1b60ff995703.jpg?1561958787
+mana_cost: "{5}{G}{G}{G}"
+cmc: 8.0
+type_line: Sorcery
+oracle_text: Return all cards from your graveyard to your hand. Exile Praetor's Counsel.
+  You have no maximum hand size for the rest of the game.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cc1b41d5-7dfc-446b-9f87-1b60ff995703/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83d8eda7-b8d2-479a-b1ec-de56833a3182&unique=prints
+collector_number: '209'
+digital: false
+rarity: mythic
+flavor_text: As the Phyrexian contagion corroded Karn's body, the praetors whispered
+  psalms to corrupt his mind.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daarken
+artist_ids:
+- e607a0d4-fc12-4c01-9e3f-501f5269b9cb
+illustration_id: b871566e-e9d1-4882-9643-75b03ebc7b3f
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3009
+prices:
+  usd: '1.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.97'
+  eur_foil: 
+  tix: '0.12'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389640
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Praetor%27s+Counsel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Praetor%27s+Counsel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Praetor%27s+Counsel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94375?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Praetor%27s+Counsel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54909?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

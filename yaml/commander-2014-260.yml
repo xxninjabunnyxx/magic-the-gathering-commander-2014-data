@@ -1,0 +1,107 @@
+---
+object: card
+id: 989e1802-1581-402b-a2c6-3ac14121b09a
+oracle_id: 19015380-1332-4960-8cc6-0732009525a2
+multiverse_ids:
+- 389626
+mtgo_id: 55033
+mtgo_foil_id: 55034
+tcgplayer_id: 94425
+cardmarket_id: 270723
+name: Pearl Medallion
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/989e1802-1581-402b-a2c6-3ac14121b09a
+scryfall_uri: https://scryfall.com/card/c14/260/pearl-medallion?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.jpg?1561951526
+  normal: https://cards.scryfall.io/normal/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.jpg?1561951526
+  large: https://cards.scryfall.io/large/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.jpg?1561951526
+  png: https://cards.scryfall.io/png/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.png?1561951526
+  art_crop: https://cards.scryfall.io/art_crop/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.jpg?1561951526
+  border_crop: https://cards.scryfall.io/border_crop/front/9/8/989e1802-1581-402b-a2c6-3ac14121b09a.jpg?1561951526
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: White spells you cast cost {1} less to cast.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/989e1802-1581-402b-a2c6-3ac14121b09a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A19015380-1332-4960-8cc6-0732009525a2&unique=prints
+collector_number: '260'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Ljunggren
+artist_ids:
+- 0fbd4798-76eb-46d5-a5d4-1e3a25870e34
+illustration_id: 28a9390a-ce31-41e3-9713-acb96b944061
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1303
+prices:
+  usd: '16.51'
+  usd_foil: 
+  usd_etched: 
+  eur: '11.00'
+  eur_foil: 
+  tix: '2.24'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389626
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pearl+Medallion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pearl+Medallion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pearl+Medallion
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94425?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pearl+Medallion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/55033?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

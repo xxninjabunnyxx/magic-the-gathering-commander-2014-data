@@ -1,0 +1,116 @@
+---
+object: card
+id: c6564b8b-4760-45a1-b747-0f30c6bbda73
+oracle_id: 8959a147-75b1-4f4a-a699-cb354ff55e59
+multiverse_ids:
+- 389569
+mtgo_id: 54835
+mtgo_foil_id: 54836
+tcgplayer_id: 94368
+cardmarket_id: 270665
+name: Joraga Warcaller
+lang: en
+released_at: '2014-11-07'
+uri: https://api.scryfall.com/cards/c6564b8b-4760-45a1-b747-0f30c6bbda73
+scryfall_uri: https://scryfall.com/card/c14/203/joraga-warcaller?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.jpg?1561957856
+  normal: https://cards.scryfall.io/normal/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.jpg?1561957856
+  large: https://cards.scryfall.io/large/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.jpg?1561957856
+  png: https://cards.scryfall.io/png/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.png?1561957856
+  art_crop: https://cards.scryfall.io/art_crop/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.jpg?1561957856
+  border_crop: https://cards.scryfall.io/border_crop/front/c/6/c6564b8b-4760-45a1-b747-0f30c6bbda73.jpg?1561957856
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Elf Warrior
+oracle_text: |-
+  Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+  Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+  Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Multikicker
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0980a6e2-eb78-4ad2-8396-cef08fce365e'
+set: c14
+set_name: Commander 2014
+set_type: commander
+set_uri: https://api.scryfall.com/sets/0980a6e2-eb78-4ad2-8396-cef08fce365e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c6564b8b-4760-45a1-b747-0f30c6bbda73/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8959a147-75b1-4f4a-a699-cb354ff55e59&unique=prints
+collector_number: '203'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 710bb5ae-14ba-43ab-a81b-d02a0869ccaf
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3068
+penny_rank: 982
+prices:
+  usd: '6.58'
+  usd_foil: 
+  usd_etched: 
+  eur: '5.30'
+  eur_foil: 
+  tix: '0.07'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389569
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Joraga+Warcaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Joraga+Warcaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Joraga+Warcaller
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/94368?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Joraga+Warcaller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/54835?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
